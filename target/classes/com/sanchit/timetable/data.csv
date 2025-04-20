@@ -1,0 +1,4 @@
+code,name,lectureSection,labSection,hasLab,lectures,lectureDays,lectureTime,labDays,labTime,instructorName
+CS101,Introduction to Programming,L1,LB1,true,3,MWF,9:00 - 10:00,T,2:00 - 4:00,Dr. Johnson
+CS201,Data Structures,L2,LB2,true,3,TTh,10:00 - 11:30,W,1:00 - 3:00,Dr. Smith
+CS301,Operating Systems,L3,,false,2,MWF,11:00 - 12:00,,,Prof. Brown
